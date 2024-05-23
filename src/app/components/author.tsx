@@ -12,7 +12,14 @@ export default function Home() {
         ABOUT THE AUTHOR
       </Typography>
       <Box sx={{ display: "flex", flexDirection: "row" }}>
-        <Box sx={{ flex: 1 }}>
+        <Box
+          sx={{
+            flex: 1,
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          }}
+        >
           <Box sx={{ width: "80%" }}>
             <Image
               src="/images/alok.jpeg"

@@ -4,7 +4,14 @@ import Image from "next/image";
 export default function Hero() {
   return (
     <Box sx={{ display: "flex", flexDirection: "row" }}>
-      <Box sx={{ flex: 1 }}>
+      <Box
+        sx={{
+          flex: 1,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+        }}
+      >
         <Image
           src="/images/bookcover.jpeg"
           alt="Book Cover"
