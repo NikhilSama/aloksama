@@ -5,8 +5,8 @@ export default function About() {
   return (
     <Box sx={{ marginTop: "50px" }}>
       <Typography variant="body1" sx={{ marginTop: "20px" }}>
-        Veteran Morgan Stanley banker Alok Sama thought he'd seen it all. Then
-        he found himself chief dealmaker at the most influential technology
+        Veteran Morgan Stanley banker Alok Sama thought he&apos;d seen it all.
+        Then he found himself chief dealmaker at the most influential technology
         investor in the world—SoftBank, the backer of Arm Holdings, Yahoo,
         Nvidia, TikTok, Uber, T-Mobile, Alibaba and WeWork.
         <br />
