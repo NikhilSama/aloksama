@@ -11,7 +11,7 @@ export default function Home() {
       >
         ABOUT THE AUTHOR
       </Typography>
-      <Box sx={{ display: "flex", flexDirection: "row" }}>
+      <Box sx={{ display: "flex", flexDirection: { xs: "column", md: "row" } }}>
         <Box
           sx={{
             flex: 1,
@@ -32,7 +32,7 @@ export default function Home() {
         </Box>
         <Box sx={{ flex: 1 }}>
           <Typography variant="h4" component="h2" sx={{ marginTop: "20px" }}>
-            Alok Sama{" "}
+            Alok Sama
           </Typography>
           <Typography variant="body1" sx={{ marginTop: "20px" }}>
             Alok Sama is the former President & CFO of SoftBank Group

@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <Box sx={{ display: "flex", flexDirection: "row" }}>
+    <Box sx={{ display: "flex", flexDirection: { xs: "column", md: "row" } }}>
       <Box
         sx={{
           flex: 1,
