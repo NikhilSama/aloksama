@@ -99,7 +99,7 @@ export default function Reviews() {
                 marginTop: "10px",
               }}
             >
-              {article.author}
+              {article.author}, {article.authorTitle}
             </Typography>
           </AccordionDetails>
         </Accordion>
