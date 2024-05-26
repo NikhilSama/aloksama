@@ -80,7 +80,7 @@ export default function Reviews() {
         component="h2"
         sx={{ marginTop: "50px", marginBottom: "50px", textAlign: "center" }}
       >
-        IN THE NEWS{" "}
+        PRAISE FOR THE MONEY TRAP{" "}
       </Typography>
       {news.map((article, index) => (
         <Accordion key={index} sx={{ backgroundColor: "transparent" }}>

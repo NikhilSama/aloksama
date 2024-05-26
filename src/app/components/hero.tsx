@@ -33,15 +33,44 @@ export default function Hero() {
           A gripping and entertaining memoir that shines a rare light on an
           industry that is disrupting our lives.
         </Typography>
+        <Typography variant="h6" sx={{ marginTop: "20px" }}>
+          Buy on:
+        </Typography>
         <Button
           variant="contained"
           color="primary"
-          href="https://www.amazon.com/Money-Trap-Illusions-Inside-Bubble/dp/1250332842/ref=sr_1_1?crid=3MJWTCYSD8YLO&dib=eyJ2IjoiMSJ9.ddh0--8ABAGiD665efK-nA.7Nzbdo7ODXnKH6ojQp76tawU3iMxxeDn15ZvumtWv9Y&dib_tag=se&keywords=money+trap+alok+sama&qid=1716473974&s=books&sprefix=money+trap+alok+s%2Cstripbooks-intl-ship%2C362&sr=1-1"
-          sx={{ marginTop: "20px" }}
+          href="https://a.co/d/ejmoGQu"
+          sx={{ marginTop: "20px", marginRight: "20px" }}
           size="large"
         >
-          Buy on Amazon
+          Amazon-US
         </Button>
+        <Button
+          variant="contained"
+          color="primary"
+          href="https://www.amazon.co.uk/Money-Trap-Fortunes-Illusions-Inside/dp/1035049325"
+          sx={{ marginTop: "20px", marginRight: "20px" }}
+          size="large"
+        >
+          Amazon UK
+        </Button>
+        <Button
+          variant="contained"
+          color="primary"
+          href="https://amzn.in/d/esoCIpP"
+          sx={{ marginTop: "20px", marginRight: "20px" }}
+          size="large"
+        >
+          Amazon IN
+        </Button>
+        <Typography
+          variant="body1"
+          sx={{ marginTop: "20px", fontStyle: "italic" }}
+        >
+          US Release: Sept 16
+          2024&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; U.K. & India
+          Release: September 19 2024
+        </Typography>
       </Box>
     </Box>
   );

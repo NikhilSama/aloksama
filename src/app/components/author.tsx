@@ -42,6 +42,9 @@ export default function Home() {
             an MBA from The Wharton School and an MFA in Creative Writing from
             New York University. The Money Trap is his first book.
           </Typography>
+          <Typography variant="body1" sx={{ marginTop: "20px" }}>
+            Contact: <a href="mailto:alok@aloksama.com">alok@aloksama.com</a>
+          </Typography>
         </Box>
       </Box>
     </Box>
