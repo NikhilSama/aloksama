@@ -43,7 +43,7 @@ export default function Hero() {
           sx={{ marginTop: "20px", marginRight: "20px" }}
           size="large"
         >
-          Amazon-US
+          Amazon US
         </Button>
         <Button
           variant="contained"
