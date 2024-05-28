@@ -8,7 +8,7 @@ const news = [
   {
     title: "A riveting page-turner about..",
     review:
-      "A riveting page-turner about the world of technology and dealmaking told by an insider…an immigrant&apos;s story with something significant to say about class, character, identity, family, and perhaps more than anything, the search for happiness.",
+      "A riveting page-turner about the world of technology and dealmaking told by an insider…an immigrant's story with something significant to say about class, character, identity, family, and perhaps more than anything, the search for happiness.",
     author: "Jonathan Safran Foer",
     authorTitle:
       "author of Extremely Loud and Incredibly Close and Everything Is Illuminated",
@@ -24,7 +24,7 @@ const news = [
   {
     title: "Sama writes with authority and panache, humor…",
     review:
-      "Sama writes with authority and panache, humor and outrage, and above all knowledge. (Imagine Michael Lewis had been President of SoftBank.) This man knows a lot, and he’s willing to share—and to make sure you have a great time as he does. If this book doesn&apos;t become a bestseller, the world truly makes no sense.",
+      "Sama writes with authority and panache, humor and outrage, and above all knowledge. (Imagine Michael Lewis had been President of SoftBank.) This man knows a lot, and he’s willing to share—and to make sure you have a great time as he does. If this book doesn't become a bestseller, the world truly makes no sense.",
     author: "Darin Strauss",
     authorTitle:
       "National Book Critics Circle Award–winning author of Half a Life",
@@ -56,9 +56,9 @@ const news = [
   },
   {
     title:
-      "A vivid and intimate story of an insider&apos;s rise to power in the world of money…",
+      "A vivid and intimate story of an insider's rise to power in the world of money…",
     review:
-      "A vivid and intimate story of an insider&apos;s rise to power in the world of money—and his search to find his own peace and freedom.",
+      "A vivid and intimate story of an insider's rise to power in the world of money—and his search to find his own peace and freedom.",
     author: "Leigh Owings Newman",
     authorTitle:
       "books editor at Oprah.com, author of Nobody Gets Out Alive and Still Points North",
@@ -67,7 +67,7 @@ const news = [
     title:
       "A shot of adrenaline that takes you directly inside some of the most exclusive rooms in tech and finance…",
     review:
-      "A shot of adrenaline that takes you directly inside some of the most exclusive rooms in tech and finance, and a colorful insider&apos;s look into the companies that rule our world.",
+      "A shot of adrenaline that takes you directly inside some of the most exclusive rooms in tech and finance, and a colorful insider's look into the companies that rule our world.",
     author: "Rob Copeland",
     authorTitle: "New York Times bestselling author of The Fund",
   },
