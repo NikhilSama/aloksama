@@ -80,7 +80,7 @@ const news = [
   {
     title: "A riveting page-turner about..",
     review:
-      "A riveting page-turner about the world of technology and dealmaking told by an insider…an immigrant's story with something significant to say about class, character, identity, family, and perhaps more than anything, the search for happiness.",
+      "A riveting page-turner about the world of technology and dealmaking told by an insider … An immigrant's story with something significant to say about class, character, identity, family, and perhaps more than anything, the search for happiness.",
     author: "Jonathan Safran Foer",
     authorTitle:
       "author of Extremely Loud and Incredibly Close and Everything Is Illuminated",
