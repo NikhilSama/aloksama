@@ -4,6 +4,8 @@ import Hero from "./components/hero";
 import About from "./components/about";
 import Reviews from "./components/reviews";
 import Author from "./components/author";
+import { news } from "./components/news"; // Updated import statement
+import { prase } from "./components/prase";
 
 export default function Home() {
   return (
@@ -17,7 +19,8 @@ export default function Home() {
     >
       <Hero />
       <About />
-      <Reviews />
+      <Reviews reviews={news} title="IN THE NEWS" />
+      <Reviews reviews={prase} title="PRAISE FOR THE MONEY TRAP" />
       <Author />
     </Container>
   );
